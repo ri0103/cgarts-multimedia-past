@@ -1,20 +1,22 @@
 # CG-ARTS マルチメディア検定 エキスパート過去問
 
-2022年前期から2026年前期までの**9回分**。問題文、選択肢、図表、注意事項、解答は、各回のCG-ARTS公式PDFで確認できます。[設問索引](question-index.md)には、第1問の共通問題を含む全90大問・369設問のテーマと掲載ページを載せています。
+2022年前期から2026年前期までの**9回分・全369設問**。年度別の学習ノートに、各設問の要点、公式の正答記号、計算や判断の手順をまとめています。気になる用語は[設問索引](question-index.md)から探せます。
 
-## 年度別の問題・解答
+## 年度別の学習ノートと公式PDF
 
-| 実施回 | 問題 | 公式解答 | テーマで探す |
+| 実施回 | Markdownで読む | 問題PDF | 公式解答 |
 | --- | --- | --- | --- |
-| 2026年前期 | [問題PDF](https://www.cgarts.or.jp/static/past_download/past_download_files/pdf/2026/a/exp_mm_26a.pdf) | [解答・配点](https://www.cgarts.or.jp/static/past_download/past_download_files/pdf/2026/a/an05-exp_mm_26a.pdf) | [設問索引](question-index.md#2026a) |
-| 2025年後期 | [問題PDF](https://www.cgarts.or.jp/static/past_download/past_download_files/pdf/2025/b/exp_mm_25b.pdf) | [解答PDF](https://www.cgarts.or.jp/static/past_download/past_download_files/pdf/2025/b/an05-exp_mm_25b.pdf) | [設問索引](question-index.md#2025b) |
-| 2025年前期 | [問題PDF](https://www.cgarts.or.jp/wp-content/uploads/2025/07/exp_mm_25a.pdf) | [解答PDF](https://www.cgarts.or.jp/wp-content/uploads/2025/07/an05-exp_mm_25a.pdf) | [設問索引](question-index.md#2025a) |
-| 2024年後期 | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2024_11/t/e/exp_mm_24b.pdf) | [解答PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2024_11/an05-exp_mm_24b.pdf) | [設問索引](question-index.md#2024b) |
-| 2024年前期 | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2024_07/t/e/exp_mm_24a.pdf) | [解答PDF](https://www.cgarts.or.jp/wp-content/uploads/2025/03/an05-exp_mm_24a.pdf) | [設問索引](question-index.md#2024a) |
-| 2023年後期 | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2023_11/t/e/exp_mm_23b.pdf) | [解答PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2023_11/an05-exp_mm_23b.pdf) | [設問索引](question-index.md#2023b) |
-| 2023年前期 | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2023_07/t/e/exp_mm_23a.pdf) | [解答PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2023_07/an05-exp_mm_23a.pdf) | [設問索引](question-index.md#2023a) |
-| 2022年後期 | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2022_11/t/e/exp_mm_22b.pdf) | [解答PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2022_11/an05-exp_mm_22b.pdf) | [設問索引](question-index.md#2022b) |
-| 2022年前期 | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2022_07/t/e/exp_mm_22a.pdf) | [解答PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2022_07/an05-exp_mm_22a.pdf) | [設問索引](question-index.md#2022a) |
+| 2026年前期 | [学習ノート](notes/2026a.md) | [問題PDF](https://www.cgarts.or.jp/static/past_download/past_download_files/pdf/2026/a/exp_mm_26a.pdf) | [解答・配点](https://www.cgarts.or.jp/static/past_download/past_download_files/pdf/2026/a/an05-exp_mm_26a.pdf) |
+| 2025年後期 | [学習ノート](notes/2025b.md) | [問題PDF](https://www.cgarts.or.jp/static/past_download/past_download_files/pdf/2025/b/exp_mm_25b.pdf) | [解答PDF](https://www.cgarts.or.jp/static/past_download/past_download_files/pdf/2025/b/an05-exp_mm_25b.pdf) |
+| 2025年前期 | [学習ノート](notes/2025a.md) | [問題PDF](https://www.cgarts.or.jp/wp-content/uploads/2025/07/exp_mm_25a.pdf) | [解答PDF](https://www.cgarts.or.jp/wp-content/uploads/2025/07/an05-exp_mm_25a.pdf) |
+| 2024年後期 | [学習ノート](notes/2024b.md) | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2024_11/t/e/exp_mm_24b.pdf) | [解答PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2024_11/an05-exp_mm_24b.pdf) |
+| 2024年前期 | [学習ノート](notes/2024a.md) | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2024_07/t/e/exp_mm_24a.pdf) | [解答PDF](https://www.cgarts.or.jp/wp-content/uploads/2025/03/an05-exp_mm_24a.pdf) |
+| 2023年後期 | [学習ノート](notes/2023b.md) | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2023_11/t/e/exp_mm_23b.pdf) | [解答PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2023_11/an05-exp_mm_23b.pdf) |
+| 2023年前期 | [学習ノート](notes/2023a.md) | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2023_07/t/e/exp_mm_23a.pdf) | [解答PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2023_07/an05-exp_mm_23a.pdf) |
+| 2022年後期 | [学習ノート](notes/2022b.md) | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2022_11/t/e/exp_mm_22b.pdf) | [解答PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2022_11/an05-exp_mm_22b.pdf) |
+| 2022年前期 | [学習ノート](notes/2022a.md) | [問題PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2022_07/t/e/exp_mm_22a.pdf) | [解答PDF](https://www.cgarts.or.jp/v1/kentei/past/img/2022_07/an05-exp_mm_22a.pdf) |
+
+問題文・全選択肢・図表は、学習ノート内の原本リンクから読めます。PDFビューアで先頭が開いた場合は、リンクに添えたページ番号を使ってください。
 
 ## 本番形式で解く
 
